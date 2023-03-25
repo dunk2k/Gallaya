@@ -1,6 +1,6 @@
 # Gallaya
 
-Essentially an amalgation and portmanteau of layouts [Gallium](https://github.com/GalileoBlues/Gallium) and Maya.
+Essentially an amalgamation and portmanteau of layouts [Gallium](https://github.com/GalileoBlues/Gallium) and Maya.
 
 Whilst Gallium and Maya don't have as low a Single Finger Bigrams (SFB) percentage as SFB optimised layouts such as ISRT, whorf, or sind, what metrics they do better in are Disjointed Single Finger Bigrams (DSFB), also known as Single Finger Skipgrams (SFS), and Lateral Stretch Bigrams (LSB). Personally, as much as I like a low SFB percentage, I'd take a hit on SFBs if it meant other equally negatively preceived metrics were improved; resulting in a more balanced layout.
 
