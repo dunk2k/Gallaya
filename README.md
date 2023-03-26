@@ -13,7 +13,7 @@ Angle modded, Z would've remained in left first finger centre column position wi
 
 Also included Angle Mod for ISO form factors, as a homage to Colemak-DH and for fellow UK English users (what what).
 
-**Ortholinear and columnar stagger:**  
+**Matrix:**  
 ![gallaya](images/gallaya.png)  
 
 **Angle Mod for ANSI form factor:**  
