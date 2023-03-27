@@ -1,0 +1,298 @@
+{
+  "id": "custom-8f0ae72a-cea1-4d03-ac96-29c02c25d0b7",
+  "name": "Gallaya US",
+  "description": "https://github.com/dunk2k/Gallaya",
+  "version": 1,
+  "keys": {
+    "Digit1": {
+      "default": {
+        "base": "1",
+        "shift": "!"
+      }
+    },
+    "Digit2": {
+      "default": {
+        "base": "2",
+        "shift": "@"
+      }
+    },
+    "Digit3": {
+      "default": {
+        "base": "3",
+        "shift": "#"
+      }
+    },
+    "Digit4": {
+      "default": {
+        "base": "4",
+        "shift": "$"
+      }
+    },
+    "Digit5": {
+      "default": {
+        "base": "5",
+        "shift": "%"
+      }
+    },
+    "Digit6": {
+      "default": {
+        "base": "6",
+        "shift": "^"
+      }
+    },
+    "Digit7": {
+      "default": {
+        "base": "7",
+        "shift": "&"
+      }
+    },
+    "Digit8": {
+      "default": {
+        "base": "8",
+        "shift": "*"
+      }
+    },
+    "Digit9": {
+      "default": {
+        "base": "9",
+        "shift": "("
+      }
+    },
+    "Digit0": {
+      "default": {
+        "base": "0",
+        "shift": ")"
+      }
+    },
+    "KeyA": {
+      "default": {
+        "base": "n",
+        "shift": "N"
+      }
+    },
+    "KeyB": {
+      "default": {
+        "base": "z",
+        "shift": "Z"
+      }
+    },
+    "KeyC": {
+      "default": {
+        "base": "w",
+        "shift": "W"
+      }
+    },
+    "KeyD": {
+      "default": {
+        "base": "t",
+        "shift": "T"
+      }
+    },
+    "KeyE": {
+      "default": {
+        "base": "d",
+        "shift": "D"
+      }
+    },
+    "KeyF": {
+      "default": {
+        "base": "s",
+        "shift": "S"
+      }
+    },
+    "KeyG": {
+      "default": {
+        "base": "g",
+        "shift": "G"
+      }
+    },
+    "KeyH": {
+      "default": {
+        "base": "p",
+        "shift": "P"
+      }
+    },
+    "KeyI": {
+      "default": {
+        "base": "o",
+        "shift": "O"
+      }
+    },
+    "KeyJ": {
+      "default": {
+        "base": "h",
+        "shift": "H"
+      }
+    },
+    "KeyK": {
+      "default": {
+        "base": "a",
+        "shift": "A"
+      }
+    },
+    "KeyL": {
+      "default": {
+        "base": "e",
+        "shift": "E"
+      }
+    },
+    "KeyM": {
+      "default": {
+        "base": "y",
+        "shift": "Y"
+      }
+    },
+    "KeyN": {
+      "default": {
+        "base": "k",
+        "shift": "K"
+      }
+    },
+    "KeyO": {
+      "default": {
+        "base": "u",
+        "shift": "U"
+      }
+    },
+    "KeyP": {
+      "default": {
+        "base": ",",
+        "shift": "<"
+      }
+    },
+    "KeyQ": {
+      "default": {
+        "base": "b",
+        "shift": "B"
+      }
+    },
+    "KeyR": {
+      "default": {
+        "base": "c",
+        "shift": "C"
+      }
+    },
+    "KeyS": {
+      "default": {
+        "base": "r",
+        "shift": "R"
+      }
+    },
+    "KeyT": {
+      "default": {
+        "base": "q",
+        "shift": "Q"
+      }
+    },
+    "KeyU": {
+      "default": {
+        "base": "f",
+        "shift": "F"
+      }
+    },
+    "KeyV": {
+      "default": {
+        "base": "v",
+        "shift": "V"
+      }
+    },
+    "KeyW": {
+      "default": {
+        "base": "l",
+        "shift": "L"
+      }
+    },
+    "KeyX": {
+      "default": {
+        "base": "m",
+        "shift": "M"
+      }
+    },
+    "KeyY": {
+      "default": {
+        "base": "j",
+        "shift": "J"
+      }
+    },
+    "KeyZ": {
+      "default": {
+        "base": "x",
+        "shift": "X"
+      }
+    },
+    "Minus": {
+      "default": {
+        "base": "-",
+        "shift": "_"
+      }
+    },
+    "Equal": {
+      "default": {
+        "base": "=",
+        "shift": "+"
+      }
+    },
+    "BracketLeft": {
+      "default": {
+        "base": "[",
+        "shift": "{"
+      }
+    },
+    "BracketRight": {
+      "default": {
+        "base": "]",
+        "shift": "}"
+      }
+    },
+    "Backslash": {
+      "default": {
+        "base": "\\",
+        "shift": "|"
+      }
+    },
+    "IntlBackslash": {
+      "default": {}
+    },
+    "Semicolon": {
+      "default": {
+        "base": "i",
+        "shift": "I"
+      }
+    },
+    "Backquote": {
+      "default": {
+        "base": "`",
+        "shift": "~"
+      }
+    },
+    "Quote": {
+      "default": {
+        "base": "/",
+        "shift": "?"
+      }
+    },
+    "Comma": {
+      "default": {
+        "base": "'",
+        "shift": "\""
+      }
+    },
+    "Period": {
+      "default": {
+        "base": ";",
+        "shift": ":"
+      }
+    },
+    "Slash": {
+      "default": {
+        "base": ".",
+        "shift": ">"
+      }
+    },
+    "Space": {
+      "default": {
+        "base": " "
+      }
+    }
+  }
+}
