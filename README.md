@@ -11,7 +11,7 @@ Gallaya takes the left hand of Gallium[^1] and the right hand of Maya[^1], worki
 
 Angle modded, Z would've remained in left first finger centre column position with Q in the "worst position" had angle mod been strictly adhered too. As Z is the least used character in English, it's position was swapped with Q.
 
-Also included Angle Mod for ISO form factors, as a homage to Colemak-DH and for fellow UK English users (what what).
+Also included Angle Mod for ISO form factors, as a homage to Colemak-DH and for fellow UK English users.
 
 **Matrix:**  
 ![gallaya](images/gallaya.png)  
